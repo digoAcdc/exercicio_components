@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appName": "Exercise",
+  "firstNameLabel": "First name:",
+  "lastNameLabel": "Last name:",
+  "submitButton": "Submit",
+  "genderRequired": "Please select a genre",
+  "employeeIdLabel": "Employee ID:",
+  "desgnationLabel": "Designation:",
+  "phoneNumberLabel": "Phone Number:",
+  "employeeDetailLabel": "Employee Details",
+  "mandatoryField": "Mandatory field",
+  "byTapping": "By tapping Create Account or Sign In, you agree to our Terms.\nLearn how we process your data in our Privacy Policy and Cookies Policy.",
+  "signApple": "Sign in with Apple",
+  "signFace": "Sign in with Facebook",
+  "signPhone": "Sign in with Phone Number",
+  "trouble": "Trouble Signing In?",
+  "getYourMoney":"Get your Money Under Control",
+  "manager": "Manage your expenses.\nSeamlessly.",
+  "signUpWithEmail": "Sign Up with Email ID",
+  "signnUpWithGoogle": "Sign Up with Google",
+  "alreadyAccount": "Already have an account? Sign In"
+}

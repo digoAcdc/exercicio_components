@@ -1,0 +1,23 @@
+{
+  "@@locale": "pt",
+  "appName": "Exercício",
+  "firstNameLabel": "Primeiro nome:",
+  "lastNameLabel": "Ultimo nome:",
+  "submitButton": "Enviar",
+  "genderRequired": "Selecione o genero",
+  "employeeIdLabel": "Funcionário ID:",
+  "desgnationLabel": "Designaçaã:",
+  "phoneNumberLabel": "Numero de Telefone:",
+  "employeeDetailLabel": "Detalhe Funcionário",
+  "mandatoryField": "Campo Obrigatório",
+  "byTapping": "Ao tocar em Criar conta ou Entrar, você concorda com nossos Termos.\nSaiba como processamos seus dados em nossa Política de Privacidade e Política de Cookies.",
+  "signApple": "Faça login com a Apple",
+  "signFace": "Faça login com o Facebook",
+  "signPhone": "Faça login com número de telefone",
+  "trouble": "Problemas para fazer login?",
+  "getYourMoney":"Tenha seu dinheiro sob controle",
+  "manager": "Gerencie suas despesas.\nPerfeitamente.",
+  "signUpWithEmail": "Inscreva-se com ID de e-mail",
+  "signnUpWithGoogle": "Inscreva-se no Google",
+  "alreadyAccount": "Já tem uma conta? Entrar"
+}
