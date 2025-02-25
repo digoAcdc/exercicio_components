@@ -49,9 +49,4 @@
 - Fonte menor (`14px`), cor **branca** e sem negrito.
 - Posicionado na parte inferior da tela.
 
----
 
-## 🎯 Melhorias Possíveis
-✅ **Responsividade**: Verifique se os botões e textos estão bem ajustados em telas menores.  
-✅ **Tamanho da fonte**: Os textos informativos poderiam ter mais contraste para melhor legibilidade.  
-✅ **Efeito de clique**: Adicionar feedback visual nos botões ao serem pressionados.  
