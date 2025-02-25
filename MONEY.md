@@ -53,9 +53,4 @@
 - **Sublinhado** e **negrito**.
 - Posicionado na parte inferior.
 
----
 
-## 🎯 Melhorias Possíveis
-✅ **Centralização do Logo**: Ajustar espaçamento para manter a logo bem posicionada.  
-✅ **Ajustar espaçamento entre os botões**: Pequenos ajustes para manter o layout mais equilibrado.  
-✅ **Adicionar efeito de clique**: Melhorar feedback visual dos botões ao serem pressionados.  
